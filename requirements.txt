@@ -1,0 +1,11 @@
+# Python 3.13.14
+# scikit-learn 1.8.0
+# XGBoost 3.4.1
+
+scikit-learn==1.8.0
+xgboost==3.4.1
+pandas
+numpy
+scipy
+matplotlib
+seaborn
